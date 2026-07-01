@@ -33,4 +33,4 @@ This project is for personal/portfolio/educational use.
 
 ## 🙌 Credits
 
-- Development: *Your Name*
+- Development: Arun Sah
